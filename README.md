@@ -1,1 +1,1 @@
-# This is my NEWSAPP site using HTML , CSS , JS AND REACT . <br/>
+# This is basic calculator using HTML , CSS and JAVASCRIPT 
